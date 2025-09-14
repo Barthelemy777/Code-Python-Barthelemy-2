@@ -1,1 +1,10 @@
 # Code-Python-Barthelemy-2
+print("Bonjour,")
+print("mes centres d'intérêt :")
+print("- Python")
+print("- L'informatique en général")
+print("- Les maths")
+print("- La technologie")
+print("Linux \(Ubuntu\)")
+print("")
+print("Je vous souaite une bonne journée")
